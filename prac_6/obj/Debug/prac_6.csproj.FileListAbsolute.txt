@@ -1,0 +1,14 @@
+C:\Users\aidyn\source\repos\prac_6\prac_6\obj\Debug\prac_6.csproj.AssemblyReference.cache
+C:\Users\aidyn\source\repos\prac_6\prac_6\obj\Debug\prac_6.csproj.CoreCompileInputs.cache
+C:\Users\aidyn\source\repos\prac_6\prac_6\bin\Debug\prac_6.exe.config
+C:\Users\aidyn\source\repos\prac_6\prac_6\bin\Debug\prac_6.exe
+C:\Users\aidyn\source\repos\prac_6\prac_6\bin\Debug\prac_6.pdb
+C:\Users\aidyn\source\repos\prac_6\prac_6\obj\Debug\prac_6.exe
+C:\Users\aidyn\source\repos\prac_6\prac_6\obj\Debug\prac_6.pdb
+C:\Users\Akarys\Source\Repos\prac_6\prac_6\bin\Debug\prac_6.exe.config
+C:\Users\Akarys\Source\Repos\prac_6\prac_6\bin\Debug\prac_6.exe
+C:\Users\Akarys\Source\Repos\prac_6\prac_6\bin\Debug\prac_6.pdb
+C:\Users\Akarys\Source\Repos\prac_6\prac_6\obj\Debug\prac_6.csproj.AssemblyReference.cache
+C:\Users\Akarys\Source\Repos\prac_6\prac_6\obj\Debug\prac_6.csproj.CoreCompileInputs.cache
+C:\Users\Akarys\Source\Repos\prac_6\prac_6\obj\Debug\prac_6.exe
+C:\Users\Akarys\Source\Repos\prac_6\prac_6\obj\Debug\prac_6.pdb
